@@ -66,3 +66,7 @@ header {
 .loss {
     background-color: #FFCCCC;
 }
+
+.keyTable{
+    width: 300px;
+}
