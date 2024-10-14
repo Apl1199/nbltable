@@ -1,0 +1,68 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  margin-left: 10px;
+  width: 100%;
+}
+
+td {
+    width: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border: 1px solid #b3b3b3;
+    padding: 10px;
+}
+
+tr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.team-name {
+    width: 300px !important;
+}
+
+table {
+    margin: 0;
+    align-content: center;
+    border-collapse: collapse;
+    width: 3000px;
+}
+header {
+    margin-left: 10px;
+}
+
+.homeGame {
+    font-weight: bold;
+}
+
+.hoopsFest {
+    text-decoration: underline; 
+}
+
+.win {
+    background-color: #CCFFCC;
+}
+
+.loss {
+    background-color: #FFCCCC;
+}
