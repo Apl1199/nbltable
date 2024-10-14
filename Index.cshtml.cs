@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace NBL25Table.Pages
+namespace NBL25Table
 {
     public class IndexModel : PageModel
     {
