@@ -21,7 +21,8 @@ html {
 body {
   margin-bottom: 60px;
   margin-left: 10px;
-  width: 100%;
+  margin-right: 10px;
+  width: 2750px;
 }
 
 td {
@@ -46,7 +47,8 @@ table {
     margin: 0;
     align-content: center;
     border-collapse: collapse;
-    width: 3000px;
+    width: 2700px;
+    
 }
 header {
     margin-left: 10px;
