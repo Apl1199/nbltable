@@ -43,13 +43,21 @@ tr {
     width: 300px !important;
 }
 
-table {
+.regular_season {
     margin: 0;
     align-content: center;
     border-collapse: collapse;
     width: 2700px;
     
 }
+
+.postseason {
+    margin: 0;
+    align-content: center;
+    border-collapse: collapse;
+    width: 1150px;
+}
+
 header {
     margin-left: 10px;
 }
@@ -70,6 +78,11 @@ header {
     background-color: #FFCCCC;
 }
 
-.keyTable{
+.NA {
+    background-color: #b3b3b3; 
+}
+
+.keyTable {
     width: 300px;
+    border-collapse: collapse;
 }
