@@ -13,6 +13,14 @@ html {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
+p {
+    width: 100%;
+}
+
+hr {
+    width: 2750px;
+}
+
 html {
   position: relative;
   min-height: 100%;
@@ -22,7 +30,7 @@ body {
   margin-bottom: 60px;
   margin-left: 10px;
   margin-right: 10px;
-  width: 2750px;
+  width: 100%;
 }
 
 td {
