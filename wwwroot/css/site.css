@@ -3,6 +3,10 @@ html {
   font-family: sans-serif;
 }
 
+header {
+    display: block;
+}
+
 @media (min-width: 768px) {
   html {
     font-size: 16px;
